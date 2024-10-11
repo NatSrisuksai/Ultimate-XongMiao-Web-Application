@@ -15,18 +15,18 @@ Ultimate XongMiao is a web blog project developed for the CSS326 Database Progra
 
 ## Installation
 
-- 1. Clone the repository:
+- Clone the repository:
 ```bash
 git clone https://github.com/NatSrisuksai/Ultimate-XongMiao-Web-Application.git
 ```
 
-- 2. Navigate to the project directory:
+- Navigate to the project directory:
 ```bash
 cd Ultimate-XongMiao-Web-Application
 ```
 
-- 3. Import database:
-- Import the project_db.sql file into your MySQL database server using MAMP or your preferred MySQL tool.
+- Import database:
+Import the project_db.sql file into your MySQL database server using MAMP or your preferred MySQL tool.
 
 ## Features
 
