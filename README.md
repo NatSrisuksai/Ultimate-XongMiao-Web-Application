@@ -26,7 +26,7 @@ cd Ultimate-XongMiao-Web-Application
 ```
 
 - Import database:
-Import the project_db.sql file into your MySQL database server using MAMP or your preferred MySQL tool.
+Import the "project_db.sql" file into your MySQL database server using MAMP or your preferred MySQL tool.
 
 ## Features
 
